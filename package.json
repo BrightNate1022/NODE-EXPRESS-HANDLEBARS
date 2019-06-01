@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brightnate1022/burger.git"
+    "url": "git+https://github.com/brightnate1022/NODE-EXPRESS-HANDLEBARS.git"
   },
   "author": "brightnate1022",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brightnate1022/burger/issues"
+    "url": "https://github.com/brightnate1022/NODE-EXPRESS-HANDLEBARS/issues"
   },
-  "homepage": "https://github.com/brightnate1022/burger#readme",
+  "homepage": "https://github.com/brightnate1022/NODE-EXPRESS-HANDLEBARS#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
